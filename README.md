@@ -1,12 +1,12 @@
 ## Hello, I’m Sebastian 🙋🏻‍♂️
 
-I'm putting out feelers in the direction of data science. 👨🏻‍💻
-I have a penchant for wanting to understand things very precisely and I notice details that no one else notices. 🔎
-I love birds and the Scottish countryside. 🐇🐦‍⬛
+I'm putting out feelers in the direction of data science 👨🏻‍💻.
+I have a penchant for wanting to understand things very precisely and I notice details that no one else notices 🔎.
+I love birds and the Scottish countryside 🏴󠁧󠁢󠁳󠁣󠁴󠁿🐇🐦‍⬛.
 
 ### Facts 
 
-- The best ideas come to you when you just _zone out_ 😌. _Breaks_ are my _key to creativity_. Pomodoro ftw! 🍅⏲️
+- The best ideas come to me when I just _zone out_ 😌. _Breaks_ are my _key to creativity_. Pomodoro ftw! 🍅⏲️
 - My academic title 🎓 is _B.A. Designer_, but I’m so much more!
 - I have a professional background in many fields like
   - _design_ ✏️
