@@ -6,7 +6,7 @@ I love birds and the Scottish countryside. 🐇🐦‍⬛
 
 ### Facts 
 
-- The best ideas come to you when you just _zone out_ 😌. That's why _breaks_ are the real _key to creativity_. Pomodoro ftw!
+- The best ideas come to you when you just _zone out_ 😌. _Breaks_ are my _key to creativity_. Pomodoro ftw! 🍅⏲️
 - My academic title 🎓 is _B.A. Designer_, but I’m so much more!
 - I have a professional background in many fields like
   - _design_ ✏️
