@@ -1,7 +1,9 @@
 ## Hello, I’m Sebastian 🙋🏻‍♂️
 
 I'm putting out feelers in the direction of data science 👨🏻‍💻.
+
 I have a penchant for wanting to understand things very precisely and I notice details that no one else notices 🔎.
+
 I love birds and the Scottish countryside 🏴󠁧󠁢󠁳󠁣󠁴󠁿🐇🐦‍⬛.
 
 ### Facts 
@@ -16,4 +18,5 @@ I love birds and the Scottish countryside 🏴󠁧󠁢󠁳󠁣󠁴󠁿🐇🐦�
 
 ### Fun fact
 I worked as a _voice-over-artist_ for years and still do 🎤! 
+
 That’s how I came to be responsible for audio and live streaming at _storytile GmbH_ 💙
