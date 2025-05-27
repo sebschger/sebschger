@@ -13,4 +13,7 @@ I love birds and the Scottish countryside. 🐇🐦‍⬛
   - _teaching_ 👨🏻‍🏫
   - _sytem design for live streaming_ 🌍
   - _audio_ 🔊
-  - and even as a _voice-over-artist_ 🎤
+
+### Fun fact
+I worked as a _voice-over-artist_ for years and still do 🎤! 
+That’s how I came to be responsible for audio and live streaming at _storytile GmbH_ 💙
